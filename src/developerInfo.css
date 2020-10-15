@@ -1,0 +1,17 @@
+.developerInfo {
+  background-color: rgb(213, 218, 230);
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px rgb(34, 34, 34);
+  margin: 25px;
+}
+
+.developerInfo h3 {
+  font-size: 1rem;
+  font-weight: 300;
+  color: rgb(47, 45, 45);
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+}
